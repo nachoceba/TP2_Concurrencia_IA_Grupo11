@@ -22,3 +22,6 @@
 - `data.sql` — DML seed data
 - `.vscode/launch.json` — Chrome debug config pointing to `http://localhost:8080`
 - `objects.sql` (referenced in schema comments, not yet present in repo) — contains trigger implementations for Integrante 3
+
+## Safety rules
+- Antes de proponer o ejecutar scripts sql, consulta y respeta el protocolo definido en `protocolo_seguridad.md`
