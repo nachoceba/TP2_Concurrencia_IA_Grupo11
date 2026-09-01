@@ -17,13 +17,12 @@ Proyecto correspondiente a la Tecnicatura en Programación de la UTN FRM — Asi
 
 - **Base de datos**: PostgreSQL 18.6 con ENUM types, soft deletes (`eliminado BOOLEAN`) y triggers
 - **Esquema**: `schema.sql` (tipos → categoria → producto → usuario → pedido → detalle_pedido)
-- **Datos de prueba**: `data.sql` (semillas con triggers de totales)
 - **Frontend**: App servida en `localhost:8080`
 
 ## Estructura del proyecto
 
 - `schema.sql` — DDL del esquema
-- `data.sql` — DML de datos semilla
+- `AGENTS.md` — Instrucciones del proyecto para agentes
 - `protocolo_seguridad.md` — Protocolo de trabajo con la base de datos
 - `Parte 1/` — Integridad referencial y restricciones
 - `Parte 2/` — Informe de concurrencia y anomalías en PostgreSQL
