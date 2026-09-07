@@ -22,11 +22,12 @@ Proyecto correspondiente a la Tecnicatura en Programación de la UTN FRM — Asi
 ## Estructura del proyecto
 
 - `schema.sql` — DDL del esquema
+- `data.sql` — DML de carga masiva sintética (categorías, productos, usuarios, pedidos y detalles)
+- `indices.sql` — Índices de optimización y reescrituras de consultas (TP3)
 - `AGENTS.md` — Instrucciones del proyecto para agentes
 - `protocolo_seguridad.md` — Protocolo de trabajo con la base de datos
-- `Parte 1/` — Integridad referencial y restricciones
-- `Parte 2/` — Informe de concurrencia y anomalías en PostgreSQL
-- `Parte 3/` — Ejercicio de lectura crítica de scripts SQL
+- `TP 2/` — TP2 Concurrencia e IA (`Parte 1/` integridad referencial, `Parte 2/` concurrencia y anomalías, `Parte 3/` lectura crítica)
+- `TP 3/` — TP3 Optimización (capturas `EXPLAIN ANALYZE`, `2.2) Tabla de resultados.xlsx`, `3.4) Lectura crítica.xlsx`, `DUIA.md`, consultas y spec en `4)/`)
 
 ## Configuración del repositorio remoto
 
