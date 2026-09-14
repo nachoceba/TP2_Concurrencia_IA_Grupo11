@@ -28,6 +28,7 @@ Proyecto correspondiente a la Tecnicatura en Programación de la UTN FRM — Asi
 - `protocolo_seguridad.md` — Protocolo de trabajo con la base de datos
 - `TP 2/` — TP2 Concurrencia e IA (`Parte 1/` integridad referencial, `Parte 2/` concurrencia y anomalías, `Parte 3/` lectura crítica)
 - `TP 3/` — TP3 Optimización (capturas `EXPLAIN ANALYZE`, `2.2) Tabla de resultados.xlsx`, `3.4) Lectura crítica.xlsx`, `DUIA.md`, consultas y spec en `4)/`)
+- `TP 4/` — TP4 y archivo `queries.sql`
 
 ## Configuración del repositorio remoto
 
