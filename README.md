@@ -1,4 +1,4 @@
-# TP2 Concurrencia e IA — Grupo 11
+# Proyecto Bases de Datos II — Grupo 11
 
 ## Integrantes (orden alfabético)
 
